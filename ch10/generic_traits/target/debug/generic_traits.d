@@ -1,0 +1,1 @@
+/home/zand22/Scripts/Projects/Rust/LearnRust/ch10/generic_traits/target/debug/generic_traits: /home/zand22/Scripts/Projects/Rust/LearnRust/ch10/generic_traits/src/lib.rs /home/zand22/Scripts/Projects/Rust/LearnRust/ch10/generic_traits/src/main.rs
