@@ -1,0 +1,1 @@
+/home/zand22/Scripts/Projects/Rust/LearnRust/ch12/minigrep/target/debug/minigrep: /home/zand22/Scripts/Projects/Rust/LearnRust/ch12/minigrep/src/lib.rs /home/zand22/Scripts/Projects/Rust/LearnRust/ch12/minigrep/src/main.rs
